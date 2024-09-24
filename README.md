@@ -2,7 +2,7 @@
 
 <div style="display: flex;justify-content: center;align-items: center;width: 100%;flex-direction: row;">
     <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/挥手(128 x 128).gif" width="70px" align="left">
-    <pre style="font-family: Consolas;text-align: center;font-size: 0.4rem;white-space: pre;">
+    <pre style="font-family: Consolas;text-align: center;font-size: 0.2rem;white-space: pre;">
     ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗    ██╗     █████╗ ███╗   ███╗    ██████╗ ██╗██████╗    
     ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║    ██║    ██╔══██╗████╗ ████║    ██╔══██╗██║╚════██╗   
     ███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗  ██║    ██║    ███████║██╔████╔██║    ██████╔╝██║ █████╔╝   
