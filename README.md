@@ -25,8 +25,10 @@ me = Student()
 me.say_hi()
 ```
 
+📔 **My Blog**: https://blog.pi3.fun | ~~https://pi3yyy.love~~
+
 <details>
-<summary>📑 <strong>More About Me</strong></summary>
+<summary><strong>More About Me</strong></summary>
 <br>
   
 🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
