@@ -7,7 +7,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Student:
 
     def __init__(self):
@@ -26,7 +25,33 @@ me = Student()
 me.say_hi()
 ```
 
+<details>
+<summary>📑 More About Me</summary>
+<br>
+  
+🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
 
+🔒 **Interests**: Cybersecurity, Computer Technology
+
+💻 **Skills**:
+- **Programming Languages**: Python, C/C++, Java, PHP
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Current Studies**: Cryptography, Penetration Testing
+
+📚 **Learning**: Preparing for graduate studies
+
+🔧 **Self-Description**: Although I am a technical rookie, I have been trying to learn.
+
+🌟 **Motto**: "From zero to hero, one line of code at a time."
+
+📧 **How to reach me**:
+- **Email**: <a href="mailto:622.511.liuchao@gmail.com">622.511.liuchao@gmail.com</a>
+- **Telegram**: <a href="https://t.me/lc_622_511">@LC_622_511</a>
+
+💡 If you have any questions about me, contact me at.
+
+</details>
+  
 <!--
 **Pi3-l22/Pi3-l22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
