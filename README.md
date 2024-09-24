@@ -1,27 +1,8 @@
 ## Hi there 👋
 
-<style>
-    @font-face {
-        font-family: 'Consolas';
-        src: url('https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/consola.ttf');
-    }
-    .ascii-art {
-        font-family: Consolas;
-        white-space: pre;
-        text-align: center;
-        font-size: 0.4rem;
-    }
-    .hi {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        flex-direction: row;
-    }
-</style>
-<div class="hi">
-    <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/挥手(128 x 128).gif" style="width: 70px; margin: 0 !important;">
-    <pre class="ascii-art">
+<div style="display: flex;justify-content: center;align-items: center;width: 100%;flex-direction: row;">
+    <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/挥手(128 x 128).gif" width="70px" align="left">
+    <pre style="font-family: Consolas;text-align: center;font-size: 0.4rem;white-space: pre;">
     ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗    ██╗     █████╗ ███╗   ███╗    ██████╗ ██╗██████╗    
     ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║    ██║    ██╔══██╗████╗ ████║    ██╔══██╗██║╚════██╗   
     ███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗  ██║    ██║    ███████║██╔████╔██║    ██████╔╝██║ █████╔╝   
