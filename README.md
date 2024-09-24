@@ -26,7 +26,7 @@ me.say_hi()
 ```
 
 <details>
-<summary>📑 More About Me</summary>
+<summary>📑 **More About Me**</summary>
 <br>
   
 🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
@@ -47,6 +47,7 @@ me.say_hi()
 📧 **How to reach me**:
 - **Email**: <a href="mailto:622.511.liuchao@gmail.com">622.511.liuchao@gmail.com</a>
 - **Telegram**: <a href="https://t.me/lc_622_511">@LC_622_511</a>
+- **Twitter**: <a href="https://x.com/liu622511?s=09">@liu622511</a>
 
 💡 If you have any questions about me, contact me at.
 
