@@ -1,12 +1,15 @@
 ## Hi there 👋
+
 <style>
+    @font-face {
+        font-family: 'Consolas';
+        src: url('https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/consola.ttf');
+    }
     .ascii-art {
-        font-family: Consolas !important;
+        font-family: Consolas;
         white-space: pre;
         text-align: center;
-        font-size: 0.5rem;
-        background-color: transparent !important;
-        margin-top: 1rem !important;
+        font-size: 0.4rem;
     }
     .hi {
         display: flex;
@@ -17,7 +20,7 @@
     }
 </style>
 <div class="hi">
-    <img src="./wave_hand.gif" style="width: 80px; margin: 0 !important;">
+    <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/挥手(128 x 128).gif" style="width: 70px; margin: 0 !important;">
     <pre class="ascii-art">
     ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗██╗    ██╗     █████╗ ███╗   ███╗    ██████╗ ██╗██████╗    
     ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██║    ██║    ██╔══██╗████╗ ████║    ██╔══██╗██║╚════██╗   
