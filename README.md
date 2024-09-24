@@ -25,7 +25,9 @@ me = Student()
 me.say_hi()
 ```
 
-📔 **My Blog**: <a href="https://blog.pi3.fun">Pi3'Note</a> | ~~<a href="https://pi3yyy.love">Pi3'Notebook</a>~~
+📔 **Blog**: <a href="https://blog.pi3.fun">Pi3'Note</a> | ~~<a href="https://pi3yyy.love">Pi3'Notebook</a>~~ 
+
+🤩 **Github**: <a href="https://x.com/liu622511?s=09">Pi3-l22</a>
 
 <details>
 <summary><strong>More About Me</strong></summary>
