@@ -1,8 +1,8 @@
 ## Hi there!👋
 
 <p align="center">
-  <img align="left" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/wave_hand.gif">
-  <img align="right" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/hithere.png">
+  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/wave_hand.gif">
+  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/hithere.png">
 </p>
 
 <!--
