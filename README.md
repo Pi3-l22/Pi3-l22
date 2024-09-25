@@ -33,27 +33,27 @@ me.say_hi()
 <summary><strong>More About Me</strong></summary>
 <br>
   
-🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
+- 🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
 
-🔒 **Interests**: Cybersecurity, Computer Technology
+- 🔒 **Interests**: Cybersecurity, Computer Technology
 
-💻 **Skills**:
-- **Programming Languages**: Python, C/C++, Java, PHP
-- **Web Technologies**: HTML, CSS, JavaScript
-- **Current Studies**: Cryptography, Penetration Testing
+- 💻 **Skills**:
+  - **Programming Languages**: Python, C/C++, Java, PHP
+  - **Web Technologies**: HTML, CSS, JavaScript
+  - **Current Studies**: Cryptography, Penetration Testing
 
-📚 **Learning**: Preparing for graduate studies
+- 📚 **Learning**: Preparing for graduate studies
 
-🔧 **Self-Description**: Although I am a technical rookie, I have been trying to learn.
+- 🔧 **Self-Description**: Although I am a technical rookie, I have been trying to learn.
 
-🌟 **Motto**: "From zero to hero, one line of code at a time."
+- 🌟 **Motto**: "From zero to hero, one line of code at a time."
 
-📧 **How to reach me**:
-- **Email**: <a href="mailto:622.511.liuchao@gmail.com">622.511.liuchao@gmail.com</a>
-- **Telegram**: <a href="https://t.me/lc_622_511">@LC_622_511</a>
-- **Twitter**: <a href="https://x.com/liu622511?s=09">@liu622511</a>
+- 📧 **How to reach me**:
+  - **Email**: <a href="mailto:622.511.liuchao@gmail.com">622.511.liuchao@gmail.com</a>
+  - **Telegram**: <a href="https://t.me/lc_622_511">@LC_622_511</a>
+  - **Twitter**: <a href="https://x.com/liu622511?s=09">@liu622511</a>
 
-💡 If you have any questions about me, contact me at.
+- 💡 If you have any questions about me, contact me at.
 
 </details>
   
