@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/wave_hand.gif">
-  <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/hithere_pink.png">
+  <img align="center" height="80" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/wave_hand.gif">
+  <img align="center" height="80" src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/hithere_pink.png">
 </p>
 
 ```python
