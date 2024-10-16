@@ -31,7 +31,6 @@ me.say_hi()
 
 <details>
 <summary><strong>More About Me</strong></summary>
-<br>
   
 - 🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
 
