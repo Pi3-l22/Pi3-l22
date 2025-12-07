@@ -12,7 +12,7 @@ class Student:
     def __init__(self):
         self.name = "Liu Chao"
         self.nickname = "Pi3"
-        self.role = "Undergraduate Student"
+        self.role = "Master's Degree Student"
         self.major = "Cyberspace Security"
         self.language = "zh_CN"
         self.location = "HangZhou China"
@@ -32,7 +32,7 @@ me.say_hi()
 <details>
 <summary><strong>More About Me</strong></summary>
   
-- 🎓 **Education**: Undergraduate at HDU, majoring in Cybersecurity
+- 🎓 **Education**: Postgraduate study in UCAS, majoring in Cybersecurity
 
 - 🔒 **Interests**: Cybersecurity, Computer Technology
 
